@@ -49,7 +49,9 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
 |  x  |     | Data is available to individuals authorized to access it.                                           |
 
 *** [ ] TO BE DONE***
+
 This section is optional and can be used to provide a summary of recommendations to the IT manager regarding which controls and/or compliance best practices Botium Toys needs to implement, based on the risk posed if not implemented in a timely manner.
+
 **Recommendations (optional):** In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
 
 
